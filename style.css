@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+  border: 2px solid black;
+}
+.H1{
+  /* text-indent: 50px; */
+  margin-left: 40%;
+  font-size: 60px;
+  font-family: monospace;
+  text-shadow: 5px 5px 4px red;
+  color: yellow;
+}
